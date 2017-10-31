@@ -1,10 +1,9 @@
 {
   "files": {
-    "fraud-activity-csv-file" : "C:/projects/fraudanalytics/data/input/export-2.csv"
+    "fraud-activity-csv-file" : "C:/projects/fastCsvExample/data/export-1.csv"
   },
   "mongodb": {
     "uri"   : "mongodb://devctlvdatpoc01.pteassociatesys.local:27017/fraud",
-    "uri-1" : "mongodb://devctlvinstch06.iteclientsys.local:27017/eddm",
     "fraud-activity-collection" : "fraud-activities"
   }
 }

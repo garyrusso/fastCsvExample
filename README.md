@@ -12,9 +12,9 @@ This JavaScript command line program will:
 
 To deploy and run the application you need:
 
-- <a href="https://nodejs.org/" target="_blank">node.js</a> v6.11.0 or greater
+- <a href="https://nodejs.org/" target="_blank">node.js</a> v8.1.4 or greater
 - <a href="https://git-scm.com/" target="_blank">Git Bash Shell</a> v2.13.2.windows.1
-- <a href="https://www.npmjs.com/" target="_blank">npm</a> v3.10.10 
+- <a href="https://www.npmjs.com/" target="_blank">npm</a> v5.0.3 
 
 ***
 
@@ -27,6 +27,8 @@ Steps:
  1. Run following command to get dependencies
 
         npm install
+
+ 1. Edit `ingest-config.json` to point to csv data file.
 
  1. Run following command
 
