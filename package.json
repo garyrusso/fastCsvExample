@@ -1,0 +1,28 @@
+{
+  "name": "csv-ingest",
+  "version": "0.0.1",
+  "description": "Fast CSV Converter",
+  "main": "ingest-csv.js",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "elapsed-time": "0.0.1",
+    "fast-csv": "^2.3.1",
+    "mongodb": "^2.2.23",
+    "nconf": "^0.8.4",
+    "zipcodes": "^2.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/garyrusso/fastCsvExample.git"
+  },
+  "keywords": [
+    "node.js",
+    "mongodb"
+  ],
+  "author": "Gary Russo",
+  "license": "ISC"
+}
